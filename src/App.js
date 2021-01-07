@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      Universitas Klabat Alumni Association
+      Asosiasi Alumni Universitas Klabat
     </div>
   );
 }
