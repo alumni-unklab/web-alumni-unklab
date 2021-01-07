@@ -1,7 +1,8 @@
 const App = () => {
   return (
     <div>
-      Asosiasi Alumni Universitas Klabat
+      <h1>Asosiasi Alumni Universitas Klabat</h1>
+      <p>Official Website - Coming Soon</p>
     </div>
   );
 }
